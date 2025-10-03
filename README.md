@@ -12,22 +12,20 @@ Para obtener el script, abre tu terminal y ejecuta:
 ```bash
 git clone https://github.com/EnekoEuneiz/games.git
 cd games
+```
 
-▶️ Cómo Ejecutar helloworld.py
+## ▶️ Cómo Ejecutar helloworld.py
 
 Asegúrate de tener Python 3 instalado en tu sistema.
 Verifica tu versión de Python:
-
+``` 
 python --version
-
-ó
-
+o
 python3 --version
-
-Ejecuta el script:
-
+```
+### Ejecuta el script:
+```
 python helloworld.py
-
-ó
-
+o
 python3 helloworld.py
+```
